@@ -1,52 +1,48 @@
-# ¡Hola, Mundo! 👋
-
-¡Bienvenido a mi perfil de GitHub! Soy Matías Bertuna, un apasionado desarrollador de software con experiencia en análisis de sistemas y programación web. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo de la tecnología.
-
-## Sobre mí
-
-- 🎓 Técnico Superior en Análisis de Sistemas
-- 💻 Apasionado por el desarrollo de software y la programación web
-- 🌱 Siempre aprendiendo y buscando nuevos desafíos
-- 🚀 Comprometido con la excelencia técnica y la innovación
-
-## Habilidades
-
-### Lenguajes de Programación y Tecnologías
-
-- C# .NET Core
-- Python
-- HTML
-- CSS
-- TypeScript
-- Angular
-- Node.js
-- MySQL
-- Git/GitHub
-
-### Otros
-
-- Metodologías Ágiles
-- Contabilidad
-- Marketing Digital
-- Microsoft Excel
-- Notion
-
-## Proyectos Destacados
-
-- [Proyecto 1](link): Breve descripción del proyecto y tecnologías utilizadas.
-- [Proyecto 2](link): Breve descripción del proyecto y tecnologías utilizadas.
-- [Proyecto 3](link): Breve descripción del proyecto y tecnologías utilizadas.
-
-## Contribuciones
-
-Aquí podrás encontrar mis contribuciones a proyectos de código abierto y colaboraciones con la comunidad tecnológica.
-
-## Contacto
-
-¡No dudes en contactarme para colaboraciones, oportunidades laborales o simplemente para charlar sobre tecnología y desarrollo de software!
-
-- 📧 Correo Electrónico: [correo@example.com](mailto:correo@example.com)
-- 💼 LinkedIn: [linkedin.com/in/matiasbertuna](https://linkedin.com/in/matiasbertuna)
-- 🌐 Sitio Web: [matiasbertuna.com](https://matiasbertuna.com)
-
-¡Gracias por visitar mi perfil!
+<div style="text-align: center;">
+  <div style="border: 1px solid black; width: 200px; padding: 10px; margin: auto;">
+    <h3 style="margin-bottom: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Front-end
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Back-end
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Herramientas
+    </h3>
+    <div style="display: flex; align-items: center; justify-content: center;">
+      <div>
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/HTML.png" alt="Icono HTML" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/CSS.png" alt="Icono CSS" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Python.png" alt="Icono Python" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/C%23.png" alt="Icono C#" width="50" height="50">
+        <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        HTML
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        CSS
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Pyhton
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        C#  
+      </div>
+      <br>
+      <div">
+        &nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/TypeScript.png" alt="Icono TypeScript" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Angular.png" alt="Icono Angular" width="50" height="50"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/NodeJS.png" alt="Icono NodeJS" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/MySQL.png" alt="Icono MySQL" width="50" height="50">
+        <br>
+        &nbsp;
+        TypeScript
+        &nbsp;
+        Angular
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        NodeJS
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        MySQL  
+      </div>
+    </div>
+  </div>
+</div>
