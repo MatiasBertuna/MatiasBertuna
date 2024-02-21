@@ -1,13 +1,29 @@
-<div style="text-align: center;">
-  <div style="border: 1px solid black; width: 200px; padding: 10px; margin: auto;">
-    <h3 style="margin-bottom: 10px;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Banner superior -->
+![Banner inicial](https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/IMAGEN-DECORATIVA-DEL-PERFIL.jpg)
+
+¡Bienvenido a mi perfil de GitHub! Soy Matías Bertuna, un apasionado desarrollador de software con experiencia en análisis de sistemas y programación web. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo de la tecnología.
+
+## Sobre mí
+
+- 🎓 Técnico Superior en Análisis de Sistemas
+- 💻 Apasionado por el desarrollo de software y la programación web
+- 🌱 Siempre aprendiendo y buscando nuevos desafíos
+- 🚀 Comprometido con la excelencia técnica y la innovación
+- 
+<!-- Sección de Tecnologías -->
+## 💻 Tecnologías
+<br>
+<div>
+  <div>
+    <h3> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Front-end
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Back-end
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Herramientas
     </h3>
-    <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
       <div>
         &nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/HTML.png" alt="Icono HTML" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +52,7 @@
         Notion  
       </div>
       <br>
-      <div">
+      <div>
         &nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/TypeScript.png" alt="Icono TypeScript" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Angular.png" alt="Icono Angular" width="50" height="50">
