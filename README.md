@@ -11,21 +11,22 @@
 - 🚀 Comprometido con la excelencia técnica y la innovación
 - 
 <!-- Sección de Tecnologías -->
-## 💻 Tecnologías
+<h2 align="center">💻 Tecnologías</h2>
+
 <br>
-<div>
-  <div>
-    <h3> 
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <div align="center">
+    <h3 align="center"> 
       Front-end
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Back-end
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       Herramientas
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </h3>
-    <div>
-      <div>
-        &nbsp;&nbsp;&nbsp;
+    <div align="center">
+      <div align="center">
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/HTML.png" alt="Icono HTML" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/CSS.png" alt="Icono CSS" width="50" height="50">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +37,6 @@
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/GitHub.png" alt="Icono GitHub" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Notion.png" alt="Icono Notion" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;
         HTML
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         CSS
@@ -52,8 +52,8 @@
         Notion  
       </div>
       <br>
-      <div>
-        &nbsp;&nbsp;&nbsp;
+      <div align="center">
+        &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/TypeScript.png" alt="Icono TypeScript" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Angular.png" alt="Icono Angular" width="50" height="50">
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -64,9 +64,9 @@
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Metodología%20Agile.png" alt="Icono Agile" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Contabilidad.png" alt="Icono Contabilidad" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <br>
-        &nbsp;
+        &nbsp;&nbsp;
         TypeScript
-        &nbsp;
+        &nbsp;&nbsp;
         Angular
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         NodeJS
@@ -77,7 +77,8 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         Agile
         &nbsp;&nbsp;
-        Contabilidad  
+        Contabilidad
+        &nbsp;
       </div>
     </div>
   </div>
