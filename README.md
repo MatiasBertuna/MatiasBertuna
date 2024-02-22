@@ -1,7 +1,9 @@
 <!-- Banner superior -->
-![Banner inicial](https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/IMAGEN-DECORATIVA-DEL-PERFIL.jpg)
+![Banner inicial](https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/Banner-GitHub.jpg)
+
 
 ¡Bienvenido a mi perfil de GitHub! Soy Matías Bertuna, un apasionado desarrollador de software con experiencia en análisis de sistemas y programación web. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo de la tecnología.
+
 
 ## Sobre mí
 
@@ -9,7 +11,7 @@
 - 💻 Apasionado por el desarrollo de software y la programación web
 - 🌱 Siempre aprendiendo y buscando nuevos desafíos
 - 🚀 Comprometido con la excelencia técnica y la innovación
-- 
+
 <!-- Sección de Tecnologías -->
 <h2 align="center">💻 Tecnologías</h2>
 
