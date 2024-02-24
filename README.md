@@ -4,6 +4,7 @@
 
 ¡Bienvenido a mi espacio! Soy **Matias**, un apasionado **desarrollador de software** con experiencia en **análisis de sistemas y programación web**. Aquí encontrarás una muestra de mis habilidades y proyectos en el mundo de la tecnología.
 
+<!-- Resumen en puntos claves -->
 ## 💫 Sobre mí
 
 - 🎓 Técnico Superior en Análisis de Sistemas
@@ -26,6 +27,7 @@
 ### Diseño
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+<!-- Medios de contacto -->
 ## 💬 Contacto
 📧 E-mail: [bertunamatias@gmail.com](mailto:bertunamatias@gmail.com) <br>
 📞 WhatsApp: [11 6868-8153](https://wa.me/+541168688153) <br>
@@ -33,10 +35,17 @@
 
 <br>
 
-### ⬇️ [Descarga mi CV](https://drive.google.com/uc?export=download&id=1lr8aXXJWdWrNrdN5QZwaGf2T5WPSWAUp)
-
----
+<!-- Enlace de descarga de currículum vitae -->
+## ⬇️ [Descarga mi CV](https://drive.google.com/uc?export=download&id=1lr8aXXJWdWrNrdN5QZwaGf2T5WPSWAUp)
 **¡Ahora conoces un poco más de mí!** No dudes en contactarme si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología.
+
+
+
+
+<!-- FIN -->
+
+
+
 
 
 <!-- Sección de Tecnologías no responsive
