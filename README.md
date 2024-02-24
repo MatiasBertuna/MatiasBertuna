@@ -2,17 +2,45 @@
 ![Banner inicial](https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/Banner-GitHub.jpg)
 
 
-¡Bienvenido a mi perfil de GitHub! Soy Matías Bertuna, un apasionado desarrollador de software con experiencia en análisis de sistemas y programación web. Aquí encontrarás una muestra de mis proyectos y contribuciones en el mundo de la tecnología.
+#### ¡Bienvenido a mi perfil de GitHub! Soy Matias, un apasionado desarrollador de software con experiencia en análisis de sistemas y programación web. Aquí encontrarás una muestra de mis habilidades y proyectos en el mundo de la tecnología.
 
-
-## Sobre mí
+## 💫 Sobre mí
 
 - 🎓 Técnico Superior en Análisis de Sistemas
 - 💻 Apasionado por el desarrollo de software y la programación web
 - 🌱 Siempre aprendiendo y buscando nuevos desafíos
 - 🚀 Comprometido con la excelencia técnica y la innovación
 
-<!-- Sección de Tecnologías -->
+<!-- Sección de Conocimientos -->
+## 💻 Tech Stack
+
+### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### Back-end
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/agile-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### 🎨 Diseño
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+## 💬 Contacto
+📧 Correo Electrónico: [bertunamatias@gmail.com](mailto:bertunamatias@gmail.com) <br>
+📞 WhatsApp: [11 6868-8153](https://wa.me/+541168688153) <br>
+💼 LinkedIn: [Matias Bertuna](https://www.linkedin.com/in/matias-bertuna/)
+
+<br>
+
+### ⬇️ [Descarga mi CV](https://drive.google.com/uc?export=download&id=1lr8aXXJWdWrNrdN5QZwaGf2T5WPSWAUp)
+
+---
+**¡Ahora conoces un poco más de mí!** No dudes en contactarme si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología.
+
+
+<!-- Sección de Tecnologías no responsive
+
 <h2 align="center">💻 Tecnologías</h2>
 
 <br>
@@ -85,3 +113,4 @@
     </div>
   </div>
 </div>
+-->
