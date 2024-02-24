@@ -2,7 +2,7 @@
 ![Banner inicial](https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/Banner-GitHub.jpg)
 
 
-#### ¡Bienvenido a mi perfil de GitHub! Soy Matias, un apasionado desarrollador de software con experiencia en análisis de sistemas y programación web. Aquí encontrarás una muestra de mis habilidades y proyectos en el mundo de la tecnología.
+¡Bienvenido a mi espacio! Soy **Matias**, un apasionado **desarrollador de software** con experiencia en **análisis de sistemas y programación web**. Aquí encontrarás una muestra de mis habilidades y proyectos en el mundo de la tecnología.
 
 ## 💫 Sobre mí
 
@@ -27,7 +27,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ## 💬 Contacto
-📧 Correo Electrónico: [bertunamatias@gmail.com](mailto:bertunamatias@gmail.com) <br>
+📧 E-mail: [bertunamatias@gmail.com](mailto:bertunamatias@gmail.com) <br>
 📞 WhatsApp: [11 6868-8153](https://wa.me/+541168688153) <br>
 💼 LinkedIn: [Matias Bertuna](https://www.linkedin.com/in/matias-bertuna/)
 
