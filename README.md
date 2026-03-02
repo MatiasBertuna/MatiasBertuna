@@ -42,7 +42,7 @@ Soy Técnico Superior en Análisis de Sistemas y estudiante avanzado de la Licen
 ## 💼 Experiencia e Impacto Operativo
 
 ### Soluciones Corporativas
-* **App de Turnos en Microsoft Teams:** Diseñé e integré una aplicación para gestionar diagramas complejos de turnos (12x14), eliminando el uso ineficiente de hojas de cálculo fragmentadas y brindando visibilidad total a la operación.
+* **App de Turnos en Microsoft Teams:** Analicé e integré una aplicación para gestionar diagramas complejos de turnos, eliminando el uso ineficiente de hojas de cálculo fragmentadas y brindando visibilidad total a la operación.
 * **Analítica Operativa en Jira:** Creé dashboards personalizados centralizando KPIs y el seguimiento de incidentes, lo que permitió identificar cuellos de botella en SLAs críticos.
 * **Soporte Resolutivo:** Gestión y resolución exitosa de más de 600 tickets de alta complejidad técnica en el último año.
 
