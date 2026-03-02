@@ -1,125 +1,86 @@
-<!-- Banner superior -->
-![Banner inicial](https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/Banner-GitHub.jpg)
+<h1 align="center">Matías Bertuna | AI & Data Solutions Architect</h1>
 
+<p align="center">
+  <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Image/Banner-GitHub.jpg" alt="Matías Bertuna Banner" width="100%">
+</p>
 
-¡Bienvenido a mi espacio! Soy **Matias**, un apasionado **desarrollador de software** con experiencia en **análisis de sistemas y programación web**. Aquí encontrarás una muestra de mis habilidades y proyectos en el mundo de la tecnología.
+## 👨‍💻 Sobre mí
 
-<!-- Resumen en puntos claves -->
-## 💫 Sobre mí
+* Soy un Técnico Superior en Análisis de Sistemas y actual estudiante de la Licenciatura en Ciencia de Datos.
+* Mi enfoque principal es la intersección entre el desarrollo lógico, el análisis profundo de datos y la optimización de procesos mediante IA Generativa.
+* Actualmente en Tecpetrol, optimizando flujos operativos y gestionando aplicativos de misión crítica.
+* Founder de Agencia Viran: +25 proyectos web entregados con enfoque en escalabilidad comercial.
+* Apasionado por la Automatización No-Code/Low-Code (n8n, Power Automate) e integración de LLMs.
+* Fanático del Simracing y la Fórmula 1, donde aplico mis conocimientos de datos para analizar el rendimiento en pista.
 
-- 🎓 Técnico Superior en Análisis de Sistemas
-- 💻 Apasionado por el desarrollo de software y la programación web
-- 🌱 Siempre aprendiendo y buscando nuevos desafíos
-- 🚀 Comprometido con la excelencia técnica y la innovación
+## 🛠️ Tech Stack
 
-<!-- Sección de Conocimientos -->
-## 💻 Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><strong>Lenguajes & Lógica</strong></td>
+    <td align="center" width="25%"><strong>Datos & IA</strong></td>
+    <td align="center" width="25%"><strong>Web & CMS</strong></td>
+    <td align="center" width="25%"><strong>Herramientas</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+      <br><br>
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <br><br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=flat-square&logo=google-gemini&logoColor=white" alt="Generative AI" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+      <br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+</table>
 
-### Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+## 🚀 Proyectos Destacados
 
-### Back-end
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+* **Sistema Experto de Nutrición**: Clasificador de biotipos corporales y recomendador de dietas basado en lógica de IA.
+* **F1 Performance Analysis**: Análisis descriptivo de datasets de Fórmula 1 correlacionando métricas de marketing y telemetría.
+* **App de Turnos RTOC**: Automatización logística implementada en Microsoft Teams para la gestión de diagramas 12x14 en el sector energético.
 
-### Herramientas
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/agile-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 📊 GitHub Stats
 
-### Diseño
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasBertuna&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBertuna&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<!-- Medios de contacto -->
-## 💬 Contacto
-📧 E-mail: [bertunamatias@gmail.com](mailto:bertunamatias@gmail.com) <br>
-📞 WhatsApp: [11 6868-8153](https://wa.me/+541168688153) <br>
-💼 LinkedIn: [Matias Bertuna](https://www.linkedin.com/in/matias-bertuna/)
+## 📫 Conectemos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matias-bertuna/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bertunamatias@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/+541168688153" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
 
 <br>
 
-<!-- Enlace de descarga de currículum vitae -->
-## ⬇️ [Descarga mi CV](https://drive.google.com/uc?export=download&id=1lr8aXXJWdWrNrdN5QZwaGf2T5WPSWAUp)
-**¡Ahora conoces un poco más de mí!** No dudes en contactarme si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología.
-
-
-
-
-<!-- FIN -->
-
-
-
-
-
-<!-- Sección de Tecnologías no responsive
-
-<h2 align="center">💻 Tecnologías</h2>
-
-<br>
-<div align="center">
-  <div align="center">
-    <h3 align="center"> 
-      Front-end
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Back-end
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      Herramientas
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </h3>
-    <div align="center">
-      <div align="center">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/HTML.png" alt="Icono HTML" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/CSS.png" alt="Icono CSS" width="50" height="50">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Python.png" alt="Icono Python" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/C%23.png" alt="Icono C#" width="50" height="50">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Git.png" alt="Icono Git" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/GitHub.png" alt="Icono GitHub" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Notion.png" alt="Icono Notion" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <br>
-        HTML
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        CSS
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Pyhton
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        C#
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Git
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        GitHub
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Notion  
-      </div>
-      <br>
-      <div align="center">
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/TypeScript.png" alt="Icono TypeScript" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Angular.png" alt="Icono Angular" width="50" height="50">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/NodeJS.png" alt="Icono NodeJS" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/MySQL.png" alt="Icono MySQL" width="50" height="50">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/VSCode.png" alt="Icono VSCode" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Metodología%20Agile.png" alt="Icono Agile" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://github.com/MatiasBertuna/MatiasBertuna/blob/main/assets/Icons/Contabilidad.png" alt="Icono Contabilidad" width="50" height="50">   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <br>
-        &nbsp;&nbsp;
-        TypeScript
-        &nbsp;&nbsp;
-        Angular
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        NodeJS
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        MySQL
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        VSCode
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        Agile
-        &nbsp;&nbsp;
-        Contabilidad
-        &nbsp;
-      </div>
-    </div>
-  </div>
-</div>
--->
+> <p align="center"><em>"¡La mejor forma de predecir el futuro es automatizándolo!"</em></p>
