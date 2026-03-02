@@ -54,11 +54,8 @@ Soy Técnico Superior en Análisis de Sistemas y estudiante avanzado de la Licen
 
 ## 📈 GitHub Metrics
 
-<div align="center">
-  <a href="https://github.com/MatiasBertuna">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatiasBertuna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/MatiasBertuna">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBertuna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
+## 📈 GitHub Metrics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiasBertuna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MatiasBertuna)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBertuna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/MatiasBertuna)
