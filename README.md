@@ -52,12 +52,6 @@ Soy Técnico Superior en Análisis de Sistemas y estudiante avanzado de la Licen
 
 ---
 
-## 🕹️ Más allá del código
-
-Defiendo fervientemente el trabajo remoto, la autonomía y la flexibilidad. Mi meta es la libertad financiera y la eficiencia total de los procesos. Cuando busco desconectar del entorno tecnológico y la estructuración de sistemas, mi lugar de enfoque absoluto (estado de flow) es el *Simracing*, compitiendo detrás del volante en simuladores como Assetto Corsa.
-
----
-
 ## 📈 GitHub Metrics
 
 <div align="center">
